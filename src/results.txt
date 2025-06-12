@@ -1,0 +1,72 @@
+=== fp_1 --custom ===
+Branches:           1546797
+Incorrect:            12805
+Misprediction Rate:   0.828
+=== fp_1 --gshare:13 ===
+Branches:           1546797
+Incorrect:            13008
+Misprediction Rate:   0.841
+=== fp_1 --tournament:9:10:10 ===
+Branches:           1546797
+Incorrect:            15331
+Misprediction Rate:   0.991
+=== fp_2 --custom ===
+Branches:           2422049
+Incorrect:            23365
+Misprediction Rate:   0.965
+=== fp_2 --gshare:13 ===
+Branches:           2422049
+Incorrect:            40546
+Misprediction Rate:   1.674
+=== fp_2 --tournament:9:10:10 ===
+Branches:           2422049
+Incorrect:            71877
+Misprediction Rate:   2.968
+=== int_1 --custom ===
+Branches:           3771697
+Incorrect:           334015
+Misprediction Rate:   8.856
+=== int_1 --gshare:13 ===
+Branches:           3771697
+Incorrect:           522380
+Misprediction Rate:  13.850
+=== int_1 --tournament:9:10:10 ===
+Branches:           3771697
+Incorrect:           476027
+Misprediction Rate:  12.621
+=== int_2 --custom ===
+Branches:           3755315
+Incorrect:            11252
+Misprediction Rate:   0.300
+=== int_2 --gshare:13 ===
+Branches:           3755315
+Incorrect:            16197
+Misprediction Rate:   0.431
+=== int_2 --tournament:9:10:10 ===
+Branches:           3755315
+Incorrect:            16185
+Misprediction Rate:   0.431
+=== mm_1 --custom ===
+Branches:           3014850
+Incorrect:            73698
+Misprediction Rate:   2.444
+=== mm_1 --gshare:13 ===
+Branches:           3014850
+Incorrect:           203210
+Misprediction Rate:   6.740
+=== mm_1 --tournament:9:10:10 ===
+Branches:           3014850
+Incorrect:            78633
+Misprediction Rate:   2.608
+=== mm_2 --custom ===
+Branches:           2563897
+Incorrect:           199920
+Misprediction Rate:   7.798
+=== mm_2 --gshare:13 ===
+Branches:           2563897
+Incorrect:           259613
+Misprediction Rate:  10.126
+=== mm_2 --tournament:9:10:10 ===
+Branches:           2563897
+Incorrect:           217458
+Misprediction Rate:   8.482

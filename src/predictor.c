@@ -53,7 +53,7 @@ uint8_t  *selectorTable;
 
 uint32_t globalHistory = 0;
 
-#define PERCEPTRON_TABLE_SIZE 1024
+#define PERCEPTRON_TABLE_SIZE 200
 #define HISTORY_LENGTH 28
 #define WEIGHT_MAX 127
 #define WEIGHT_MIN -128
